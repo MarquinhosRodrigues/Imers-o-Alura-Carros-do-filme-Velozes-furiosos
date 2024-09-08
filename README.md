@@ -1,5 +1,5 @@
 
-## Dando um rolê pelos carros de Velozes e Furiosos! 
+Dando um rolê pelos carros de Velozes e Furiosos - Imersão Dev com Google Gemini
 
 ### Sobre a Aplicação
 
